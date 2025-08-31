@@ -1,4 +1,11 @@
+function setup(){
+ createCanvas(600, 600);
+ background(220);
+}
 
+function draw() {
+
+}
 
 function keyPressed(){
     let count = floor(random(5, 21));
