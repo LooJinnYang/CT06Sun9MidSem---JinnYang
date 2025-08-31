@@ -1,6 +1,7 @@
 let count = 1
-
-
+let size = 1
+let x = 1
+let y = 1
 
 function setup(){
  createCanvas(600, 600);
